@@ -1,6 +1,4 @@
-# 👋Hey There i am
-<link rel="stylesheet" type="text/css" media="all" href="https://cdn.discordapp.com/attachments/705110233474793512/759791407229042769/ayy.css" />
-<h1 id="dev">[ Devster ]</h1>
+# 👋Hey There i am [ Devster ]
 <div style='font-size:1.2em'>
 	<b>Full stack Web Dev and Programming Enthuciast</b>
 	&ldquo; I am Just A Developer who keeps Learning sharing knowledge i have &rdquo;
