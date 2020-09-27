@@ -19,8 +19,11 @@
 	More Coming Soon..
 	</p>
 </div>
+
 <hr>
+
 ## 🔧 Langs / Tools / Frameworks
+
 <div align='left' style="display: flex; justify-content: space-between;">
 	<!-- Programming Languages. -->
 	<a href='https://nodejs.org/en/'>
@@ -73,4 +76,4 @@
 	&emsp;
 </div>
 <hr>
-![](https://komarev.com/ghpvc/?username=devloves&style=flat-square)
+<img src="https://komarev.com/ghpvc/?username=devloves&style=flat-square">
