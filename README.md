@@ -19,9 +19,7 @@
 	More Coming Soon..
 	</p>
 </div>
-
-<br>
-
+<hr>
 ## 🔧 Langs / Tools / Frameworks
 <div align='left' style="display: flex; justify-content: space-between;">
 	<!-- Programming Languages. -->
@@ -74,3 +72,5 @@
 	</a>
 	&emsp;
 </div>
+<hr>
+![](https://komarev.com/ghpvc/?username=devloves&style=flat-square)
