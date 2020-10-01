@@ -1,6 +1,7 @@
 # 👋Hey There i am [ Devster ]
 <div style='font-size:1.2em'>
-	<b>Full stack Web Dev and Programming Enthuciast</b>
+	<b>Full stack Web Dev and Programming Enthusiast</b>
+	<br>
 	&ldquo; I am Just A Developer who keeps Learning sharing knowledge i have &rdquo;
 </div>
 
