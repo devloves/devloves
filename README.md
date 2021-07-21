@@ -16,9 +16,6 @@
 	<a href="https://dev.to/devster">
   	<img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Devster's DEV Profile" height="30" width="30">
 	</a>
-	<p>
-	More Coming Soon..
-	</p>
 </div>
 
 <hr>
