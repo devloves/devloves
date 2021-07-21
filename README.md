@@ -77,4 +77,3 @@
 	&emsp;
 </div>
 <hr>
-<img src="https://komarev.com/ghpvc/?username=devloves&style=flat-square">
