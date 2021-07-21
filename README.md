@@ -11,7 +11,7 @@
 
 <div align='left' style="display: flex; justify-content: space-between;">
 	<a href='#'>
-	<img src='https://img.shields.io/badge/Discord-Dev%237558-7289DA?style=for-the-badge&logo=discord&logoColor=7289DA&logoWidth=30&labelColor=000' alt='Discord - dev#7558'>
+	<img src='https://img.shields.io/badge/Discord-Dev%237558-7289DA?logo=discord&logoColor=7289DA&logoWidth=30&labelColor=000' alt='Discord - dev#7558'>
 	</a>
 	<a href="https://dev.to/devster">
   	<img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Devster's DEV Profile" height="30" width="30">
