@@ -8,58 +8,8 @@ Work in progress
 
 ### 🛠️ Tools
 
-<div align='left' style="display: flex; justify-content: space-between;">
-	<!-- Programming Languages. -->
-	<a href='https://nodejs.org/en/'>
-		<img src='https://img.shields.io/badge/code-node.js-339933?logo=node.js&logoWidth=30&labelColor=black&style=for-the-badge' alt='Node.js'>
-	</a>
-	&emsp;
-	<a href='https://developer.mozilla.org/en-US/docs/Web/JavaScript'>
-		<img src='https://img.shields.io/badge/code-javascript-F7DF1E?logo=javascript&logoWidth=30&labelColor=black&style=for-the-badge' alt='JavaScript'>
-	</a>
-	&emsp;
-	<a href='https://developer.mozilla.org/en-US/docs/Web/HTML'>
-		<img src='https://img.shields.io/badge/code-html-E34F26?logo=html5&logoWidth=30&labelColor=black&style=for-the-badge' alt='HTML'>
-	</a>
-	&emsp;
-	<a href='https://developer.mozilla.org/en-US/docs/Web/CSS'>
-		<img src='https://img.shields.io/badge/code-css-1572B6?logo=css3&logoWidth=30&labelColor=black&style=for-the-badge&logoColor=1572B6' alt='CSS'>
-	</a>
-	&ensp;
-	<a href='https://www.react.org/'>
-		<img src='https://img.shields.io/badge/code-react-blue?logoWidth=30&labelColor=black&style=for-the-badge&logo=react' alt='React.js'>
-	</a>
-	&emsp;
-	<a href='https://www.Vuejs.org/'>
-		<img src='https://img.shields.io/badge/code-vue-green?logoWidth=30&labelColor=black&style=for-the-badge&logo=vue' alt='Vue.js'>
-	</a>
-	&emsp;
-	<a href='https://www.python.org/'>
-		<img src='https://img.shields.io/badge/code-python-007396?logoWidth=30&labelColor=black&style=for-the-badge&logo=python' alt='Java'>
-	</a>
-	&emsp;
-	<a href='#'>
-		<img src='https://img.shields.io/badge/code-c%20programming-A8B9CC?logoWidth=30&labelColor=black&style=for-the-badge&logo=c' alt='C Programming'>
-	</a>
-	&emsp;
-	<a href='#'>
-		<img src='https://img.shields.io/badge/code-c%2B%2B-00599C?logoWidth=30&labelColor=black&style=for-the-badge&logo=c%2B%2B' alt='C++'>
-	</a>
-	&emsp;
-	<a href='https://www.php.net/'>
-		<img src='https://img.shields.io/badge/code-php-777BB4?logoWidth=30&labelColor=black&style=for-the-badge&logo=php' alt='PHP'>
-	</a>
-	&emsp;
-	<a href='https://getbootstrap.com/'>
-		<img src='https://img.shields.io/badge/tools-bootstrap-563D7C?logo=bootstrap&logoWidth=30&labelColor=black&style=for-the-badge' alt='Bootstrap'>
-	</a>
-	&emsp;
-	<a href='https://repl.it/'>
-		<img src='https://img.shields.io/badge/tools-repl-430098?logoWidth=30&labelColor=black&style=for-the-badge&logo=replit' alt='REPL.IT'>
-	</a>
-	&emsp;
-</div>
-<hr>
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+
 
 
 ### 👋🏻 Connect with Me
