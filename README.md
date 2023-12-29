@@ -1,6 +1,6 @@
 ## 🙋🏻‍♀️ Hello i am Devansh 
 
-🔭 **I’m currently working on:**  <br>Making interactive front-end experinces using many technologies.<br><br>👯 **I’m looking to collaborate on:**  <br>Front-End projects<br><br>🌱 **I’m currently learning:**  <br>React, Nextjs, Postgres.<br><br>💬 **Ask me about:**  <br>JavaScript, React, Nextjs, Node.js and any general software development questions.<br><br>⚡ **Fun fact:**  <br>I love sci-fi fantasy movies.
+🔭 **I’m currently working on:**  <br>Making interactive front-end experinces using many technologies.<br><br>👯 **I’m looking to collaborate on:**  <br>Front-End projects<br><br>🌱 **I’m currently learning:**  <br>React, Nextjs, Postgres, Python<br><br>💬 **Ask me about:**  <br>JavaScript, React, Nextjs, Node.js and any general software development questions.<br><br>⚡ **Fun fact:**  <br>I love sci-fi fantasy movies.
 
 ### 🛠️ Tools
 
