@@ -1,4 +1,5 @@
 ![gitbanner](https://github.com/devloves/devloves/assets/65783463/299d1c92-7223-426a-8608-1d8833cef383)
+<hr></hr>
 🌱 **I’m currently learning:**  <br>React, Nextjs, Postgres, Python<br><br>💬 **Ask me about:**  <br>JavaScript, React, Nextjs, Node.js and any general software development questions.<br><br>⚡ **Fun fact:**  <br>I love sci-fi fantasy movies.
 
 ### 🛠️ Tools
