@@ -10,7 +10,7 @@
   <img src="https://streak-stats.demolab.com?user=devloves&hide_border=true&background=EBEBEB00&stroke=5d96f0&ring=5d96f0&fire=EBEBEB&currStreakNum=EBEBEB&currStreakLabel=EBEBEB&sideLabels=EBEBEB&sideNums=5d96f0">
 </p>
 
-<!-- <h3>🌐 Highlited projects</h3>
+<h3>🌐 Highlited projects</h3>
 <p>
    <table>
       <tr>
@@ -20,6 +20,8 @@
           <td><a href="#" target="_blank">Mythos 2D Engine</a></td>
           <td><img align="center" src="#" height="50" width="50"/></td>
           <td><a href="#" target="_blank">Mitro</a></td>
+          <td><img align="center" src="#" height="50" width="50"/></td>
+          <td><a href="#" target="_blank">Chess Engine</a></td>
       </tr>
   </table> 
-</p> -->
+</p>
