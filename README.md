@@ -1,4 +1,4 @@
-![Frame 1 (4)](https://github.com/devloves/devloves/assets/65783463/42b3b7af-a864-4cc7-833d-70252b943409)
+![Frame 1 (4)](https://github.com/devloves/devloves/assets/65783463/69853555-41b9-4e7e-b28c-1e024cd2b8b0)
 
 <h3>🛠️ Tools & Tech i work with 🛠️</h3>
 <p>
