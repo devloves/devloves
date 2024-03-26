@@ -2,7 +2,7 @@
 
 <h3>🛠️ Tools & Tech i work with 🛠️</h3>
 <p>
-  <img src="https://skillicons.dev/icons?i=js,java,py,c,cpp,react,fastapi,html,css,mysql,cloudflare,unity,unreal,godot,blender">
+  <img src="https://skillicons.dev/icons?i=js,java,py,c,cpp,react,fastapi,html,css,mysql,cloudflare">
 </p>
 
 <p align="center">
