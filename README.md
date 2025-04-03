@@ -1,5 +1,3 @@
-![Frame 1 (6)](https://github.com/devloves/devloves/assets/65783463/49e191b2-ab40-4841-a1a9-f36ff5e9bca8)
-
 <h3>🛠️ Tools & Tech i work with 🛠️</h3>
 <p>
   <img src="https://skillicons.dev/icons?i=js,java,py,c,cpp,react,fastapi,html,css,mysql,cloudflare">
